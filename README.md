@@ -1,4 +1,4 @@
 # commerce-con-Gridpabloriveracorrea
 
-para revisión : https://github.com/pabloriveracorrea/commerce-con-Gridpabloriveracorrea
+para revisión : https://pabloriveracorrea.github.io/commerce-con-Gridpabloriveracorrea/
 
